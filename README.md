@@ -1,5 +1,5 @@
 # :bar_chart: python-covid19-brasil
-Project used to study COVID-19 data in Brazil
+Project used to study Brazil COVID-19 data
 
 ## :book: About
 
